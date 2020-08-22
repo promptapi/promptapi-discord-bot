@@ -1,14 +1,11 @@
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://cache.promptapi.com/assets/logo/logo.png" alt="Prompt API Logo" height="50">
-  </a>
-
+  <img src="https://cache.promptapi.com/assets/logo/logo.png" alt="Prompt API Logo" height="50">
   <h3 align="center">Prompt API Discord Bot</h3>
 
   <p align="center">
     A discord bot made to demonstrate the use of APIs on the Prompt API marketplace.
     <br />
-    <a href="https://promptapi/"><strong>Visit Prompt API Marketplace »</strong></a>
+    <a href="https://promptapi.com/"><strong>Visit Prompt API Marketplace »</strong></a>
     <br />
     <br />
     <a href="https://github.com/emresavas/promptapi-discord-bot/issues">Report Bug</a>
