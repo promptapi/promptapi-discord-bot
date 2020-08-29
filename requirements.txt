@@ -1,2 +1,2 @@
-python-dotenv
-discord.py
+discord.py==1.4.1
+pa-bin-checker==0.0.4
