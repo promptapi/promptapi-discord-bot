@@ -79,3 +79,8 @@ All PR’s are welcome!
 1. `push` your `branch` (`git push origin my-feature`)
 1. Than create a new **Pull Request**!
 
+This project is intended to be a safe,
+welcoming space for collaboration, and contributors are expected to adhere to
+the [code of conduct][coc].
+
+[coc]:              https://github.com/promptapi/promptapi-discord-bot/blob/master/CODE_OF_CONDUCT.md
