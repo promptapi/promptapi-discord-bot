@@ -1,2 +1,3 @@
 discord.py==1.4.1
 pa-bin-checker==0.0.4
+pa-scraper==0.2.2
